@@ -1,0 +1,60 @@
+﻿@model DoAnTotNghiep.Models.Appointment
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "EditUserAppointment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .form-container {
+        width: 35%; /* Điều chỉnh độ rộng của form container */
+        margin: 0 auto; /* Đưa form vào giữa trang */
+    }
+</style>
+
+<div class="form-container">
+    <h1 style="margin-top:150px">Edit Appointment</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post" asp-action="EditUserAppointment">
+                @Html.AntiForgeryToken()
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="AppointmentId" />
+
+                <!-- Displaying User Information -->
+                <div class="form-group">
+                    <label>Patient Name</label>
+                    <input type="text" class="form-control" value="@ViewBag.UserName" readonly />
+                </div>
+                <div class="form-group">
+                    <label>Phone Number</label>
+                    <input type="text" class="form-control" value="@ViewBag.UserPhone" readonly />
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="text" class="form-control" value="@ViewBag.UserEmail" readonly />
+                </div>
+
+                <!-- Displaying Appointment Information -->
+                <div class="form-group">
+                    <label asp-for="ServiceId" class="control-label">Service</label>
+                    <select asp-for="ServiceId" class="form-control" asp-items="ViewBag.ServiceId"></select>
+                    <span asp-validation-for="ServiceId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DoctorId" class="control-label">Doctor</label>
+                    <select id="DoctorId" class="form-control" asp-for="DoctorId" asp-items="ViewBag.DoctorId"></select>
+                    <span asp-validation-for="DoctorId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-action="UserAppointmentList">Back to List</a>
+    </div>
+
+</div>
+

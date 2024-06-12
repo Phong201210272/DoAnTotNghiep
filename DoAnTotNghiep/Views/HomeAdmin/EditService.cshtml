@@ -1,0 +1,43 @@
+﻿@model DoAnTotNghiep.Models.Service
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "EditService";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    var successMessage = TempData["SuccessMassage"] as string;
+}
+
+<h1>EditService</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditService">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ServiceId" />
+            <div class="form-group">
+                <label asp-for="ServiceName" class="control-label"></label>
+                <input asp-for="ServiceName" class="form-control" />
+                <span asp-validation-for="ServiceName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cost" class="control-label"></label>
+                <input asp-for="Cost" class="form-control" />
+                <span asp-validation-for="Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        @* @if (!string.IsNullOrEmpty(successMessage))
+        {
+        <div class="alert alert-success" role="alert">
+        @successMessage
+        </div>
+        } *@
+    </div>
+</div>
+
+<div>
+    <a asp-action="ServiceManagement">Back to List</a>
+</div>
+

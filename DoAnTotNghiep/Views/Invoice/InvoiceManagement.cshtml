@@ -1,0 +1,59 @@
+﻿@model IEnumerable<DoAnTotNghiep.Models.Bill>
+
+@{
+    ViewData["Title"] = "Invoice Management";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    QlphongKhamNhaKhoaContext db = new QlphongKhamNhaKhoaContext();
+}
+
+<h1 style="text-align:center">Invoice Management</h1>
+
+<table class="table">
+    <thead>
+        <tr style="background-color : White">
+            <th>Invoice ID</th>
+            <th>Create Date</th>
+            <th>Total (VND)</th>
+            <th>Admin Name</th>
+            <th>User Name</th>
+            <th>Service Name</th>
+            <th>Doctor Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            var user = (DoAnTotNghiep.Models.User)ViewBag.UserInformationDict[item.UserId];
+            var admin = (DoAnTotNghiep.Models.Admin)ViewBag.AdminInformationDict[item.AdminId];
+            var detail = (DoAnTotNghiep.Models.BillDetail)ViewBag.BillDetailsDict[item.BillId];
+            var service = db.Services.FirstOrDefault(s => s.ServiceId == detail.ServiceId);
+            var doctor = (DoAnTotNghiep.Models.Doctor)ViewBag.DoctorInformationDict[item.AppointmentId];
+
+            <tr class ="table-dark">
+                <td>@item.BillId</td>
+                <td>@item.CreateDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.Total</td>
+                <td>@admin?.Name</td>
+                <td>@user?.Name</td>
+                <td>@service?.ServiceName</td>
+                <td>@doctor?.Name</td>
+                <td>
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <a asp-action="ExportInvoiceDetailsToExcel" asp-route-billId="@item.BillId" class="btn btn-gradient-success btn-rounded btn-fw">Export to Excel</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var successMessage = '@TempData["SuccessMessage"]';
+            if (successMessage) {
+                alert(successMessage);
+            }
+        });
+    </script>
+}

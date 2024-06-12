@@ -1,0 +1,128 @@
+﻿@model DoAnTotNghiep.Models.Appointment
+
+@{
+    ViewData["Title"] = "Appointment Detail";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    /* Add your custom CSS styles here */
+    .status-paid {
+        color: green;
+    }
+    .info-section {
+        margin-bottom: 20px;
+    }
+    .info-section h4 {
+        margin-bottom: 10px;
+    }
+    .info-section dl {
+        margin-bottom: 0;
+    }
+    .info-section dt {
+        font-weight: bold;
+    }
+    .action-buttons {
+        margin-top: 20px;
+    }
+    .action-buttons a {
+        margin-right: 10px;
+        text-decoration: none;
+        padding: 5px 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        color: #333;
+        transition: all 0.3s ease;
+    }
+    .action-buttons a:hover {
+        background-color: #f0f0f0;
+    }
+</style>
+
+<h1>Appointment Detail</h1>
+
+@if(Model.Status == 2)
+{
+    <h3 class="status-paid">(Paid)</h3>
+}
+
+<div class="info-section">
+    <h4>General Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Creation Date
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreateDate)
+        </dd>
+        <dt class="col-sm-2">
+            Appointment Time
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AppointmentTime)
+        </dd>
+        <dt class="col-sm-2">
+            Doctor Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Doctor.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Service Name
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Service.ServiceName)
+        </dd>
+        <dt class="col-sm-2">
+            Price
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Service.Cost) VND
+        </dd>
+        <dt class="col-sm-2">
+            User ID
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.UserId)
+        </dd>
+    </dl>
+</div>
+
+<div class="info-section">
+    <h4>User Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            User Name
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.UserName
+        </dd>
+        <dt class="col-sm-2">
+            Phone Number
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.UserPhone
+        </dd>
+        <dt class="col-sm-2">
+            Email
+        </dt>
+        <dd class="col-sm-10">
+            @ViewBag.UserEmail
+        </dd>
+    </dl>
+</div>
+
+<div class="action-buttons">
+    @if(Model.Status != 2)
+    {
+        <a asp-controller="Invoice" asp-action="NewInvoice" asp-route-id="@Model.AppointmentId">Invoice</a>
+    }
+    @if(Model.Status == 2)
+    {
+        <a asp-controller="Invoice" asp-action="InvoiceManagement" >Invoice List</a>
+    }
+    <a asp-action="AppointmentManagement">Back to list</a>
+
+</div>

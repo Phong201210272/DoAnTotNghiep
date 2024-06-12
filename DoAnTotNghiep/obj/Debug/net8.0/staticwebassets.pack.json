@@ -1,0 +1,3185 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoAnTotNghiep.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnTotNghiep.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\logo_1.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo_1.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\index.html",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\index.html"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Dentist\\Dentist - Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\Dentist\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\main.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\main.map",
+      "PackagePath": "staticwebassets\\Dentist\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Dentist\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Dentist\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\2b1a86089032aa5d0daa2cc8b1ec2942.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\2b1a86089032aa5d0daa2cc8b1ec2942.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\3cbca925d49ec26a883982d898eb30c0.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\3cbca925d49ec26a883982d898eb30c0.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\6fd87a04ce811798d94119c2e5bba0d8.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\6fd87a04ce811798d94119c2e5bba0d8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\QR.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\QR.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\appoinment-img.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\appoinment-img.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\b4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\b4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\ads-banner.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\ads-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\blog-home-banner.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\blog-home-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\cat-widget1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\cat-widget1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\cat-widget2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\cat-widget2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\cat-widget3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\cat-widget3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\feature-img2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\feature-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\feature-img3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\feature-img3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\feature-img4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\feature-img4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\feature-img5.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\feature-img5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\pp1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\pp1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\pp2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\pp2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\pp3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\pp3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\pp4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\pp4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\s-img.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\s-img.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\blog\\user-info.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\blog\\user-info.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\call-action-bg.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\call-action-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\t1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\t1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\t2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\t2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\t3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\t3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\t4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\t4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\nguyenthib.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\nguyenthib.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\nguyenvana.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\nguyenvana.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\p3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\play-btn.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\play-btn.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\s1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\s1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\s2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\s2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\s3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\s3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\s4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\s4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t1.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t1.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t2.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t2.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t3.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t3.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\t4.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\t4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\top-banner.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\top-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\user.png",
+      "PackagePath": "staticwebassets\\Dentist\\img\\user.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\Dentist\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\jquery.circlechart.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\jquery.circlechart.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\main.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\mn-accordion.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\mn-accordion.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\superfish.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\superfish.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Dentist\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_flexbox.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_flexbox.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Dentist\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dentist\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\classy-nav.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\classy-nav.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\elegant-icon.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\elegant-icon.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\style.css",
+      "PackagePath": "staticwebassets\\Invoice\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Invoice\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\HhyaU5sn9vOmLzlnC_W6EQ.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\HhyaU5sn9vOmLzloC_U.woff2",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\HhyaU5sn9vOmLzloC_U.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\classy.eot",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\classy.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\classy.svg",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\classy.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\classy.ttf",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\classy.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\classy.woff",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\classy.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Invoice\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\1.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\10.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\11.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\12.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\13.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\13.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\14.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\14.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\15.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\15.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\16.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\16.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\17.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\17.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\18.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\18.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\19.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\19.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\2.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\20.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\20.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\21.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\21.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\22.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\22.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\23.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\23.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\24.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\24.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\25.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\25.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\26.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\26.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\27.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\27.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\28.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\28.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\29.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\29.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\3.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\30.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\30.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\31.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\31.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\32.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\32.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\33.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\33.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\34.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\34.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\35.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\35.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\36.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\36.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\37.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\37.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\38.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\38.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\39.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\39.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\4.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\40.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\40.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\41.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\41.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\42.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\42.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\43.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\43.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\44.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\44.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\45.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\45.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\46.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\46.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\47.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\47.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\48.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\48.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\49.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\49.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\5.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\6.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\7.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\8.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\9.jpg",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\cool-facts.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\cool-facts.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\subscribe.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\subscribe.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\team1.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\team1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\team2.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\team2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\team3.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\team3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\bg-img\\team4.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\bg-img\\team4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\b1.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\b1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\b2.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\b2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\b3.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\b3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\b4.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\b4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\cf1.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\cf1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\cf2.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\cf2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\cf3.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\cf3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\cf4.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\cf4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\favicon.ico",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\leaf.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\leaf.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\logo.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\logo.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\pot.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\pot.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\s1.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\s1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\s2.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\s2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\img\\core-img\\s3.png",
+      "PackagePath": "staticwebassets\\Invoice\\img\\core-img\\s3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\js\\active.js",
+      "PackagePath": "staticwebassets\\Invoice\\js\\active.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Invoice\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\Invoice\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Invoice\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\js\\plugins\\plugins.js",
+      "PackagePath": "staticwebassets\\Invoice\\js\\plugins\\plugins.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Invoice\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\Invoice\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Invoice\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\scss\\_theme_color.scss",
+      "PackagePath": "staticwebassets\\Invoice\\scss\\_theme_color.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Invoice\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Invoice\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\Login\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Login\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\Login\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\Login\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\Login\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Login\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\main.map",
+      "PackagePath": "staticwebassets\\Login\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Login\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Login\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Login\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Login\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\Login\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\Login\\img\\banner\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\Login\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\Login\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\Login\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\Login\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\Login\\img\\brand\\5.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\cart.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Login\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\fav.png",
+      "PackagePath": "staticwebassets\\Login\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\Login\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\Login\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\Login\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Login\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\Login\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\Login\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\r9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\Login\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\Login\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\Login\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\Login\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\DoAnTotNghiep\\DoAnTotNghiep\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoAnTotNghiep.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoAnTotNghiep.props",
+      "PackagePath": "build\\DoAnTotNghiep.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnTotNghiep.props",
+      "PackagePath": "buildMultiTargeting\\DoAnTotNghiep.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoAnTotNghiep.props",
+      "PackagePath": "buildTransitive\\DoAnTotNghiep.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,97 @@
+﻿@* @model DoAnTotNghiep.Models.Appointment
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "NewAppointment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>NewAppointment</h1>
+
+<h4>Appointment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="NewAppointment">
+            
+            <div class="form-group">
+                <label asp-for="ServiceId" class="control-label"></label>
+                <select asp-for="ServiceId" class ="form-control" asp-items="ViewBag.ServiceId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctorId" class="control-label"></label>
+                <select asp-for="DoctorId" class ="form-control" asp-items="ViewBag.DoctorId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+ *@
+
+
+ @model DoAnTotNghiep.Models.Appointment
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+	ViewData["Title"] = "Reservation";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+	var session = HttpContextAccessor.HttpContext?.Session;
+	string? username = session?.GetString("Username");
+	string? phone = null;
+	string? user = null;
+	string? email = null;
+	if (!string.IsNullOrEmpty(username))
+	{
+		using (var db = new QlphongKhamNhaKhoaContext())
+		{
+			user = db.Users.FirstOrDefault(u => u.Username == username)?.Name;
+			phone = db.Users.FirstOrDefault(u => u.Username == username)?.PhoneNumber;
+			email = db.Users.FirstOrDefault(u => u.Username == username)?.Email;
+		}
+	}
+}
+<section class="appoinment-area section-gap relative" style="margin-top: 150px">
+	<div class="container">
+		<div class="row align-items-center justify-content-end">
+			<div class="col-lg-6 no-padding appoinment-right">
+				<h1 class="text-white">
+					Book an <br>
+					Appoinment
+				</h1>
+				<form method="post" asp-action="NewAppointment">
+					<div class="row">
+						<div class="col-lg-12 d-flex flex-column">
+							<span name="patient-name" style="width:580px" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" readonly>@user</span>
+						</div>
+						<div class="col-lg-6 d-flex flex-column">
+							<span name="patient-phone" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phonenumber'" class="form-control mt-20" required="" readonly >@phone</span>
+						</div>
+						<div class="col-lg-6 d-flex flex-column">
+							<span style="width:300px"  name="patient-name" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" class="form-control mt-20" required="" readonly>@email</span>
+						</div>
+						<div class="col-lg-6 d-flex flex-column">
+							<label asp-for="ServiceId"></label>
+							<select asp-for="ServiceId" asp-items="ViewBag.ServiceId"></select>
+						</div>
+						<div class="col-lg-6 d-flex flex-column">
+							<label asp-for="DoctorId" ></label>
+							<select asp-for="DoctorId" asp-items="ViewBag.DoctorId"></select>
+						</div>
+						<div class="col-lg-12 d-flex justify-content-end send-btn">
+							<input type="submit" value="Create" class="btn btn-primary" />
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+

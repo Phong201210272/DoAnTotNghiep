@@ -1,0 +1,125 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model DoAnTotNghiep.Models.Appointment
+
+@{
+    ViewData["Title"] = "Edit Appointment";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    var successMessage = TempData["SuccessMessage"] as string;
+}
+
+<h1 style="text-align:center">Edit Appointment</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="EditAppointment">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AppointmentId" />
+
+            <!-- Displaying User Information -->
+            <div class="form-group">
+                <label>Patient Name</label>
+                <input type="text" class="form-control" value="@ViewBag.UserName" readonly />
+            </div>
+            <div class="form-group">
+                <label>Phone Number</label>
+                <input type="text" class="form-control" value="@ViewBag.UserPhone" readonly />
+            </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input type="text" class="form-control" value="@ViewBag.UserEmail" readonly />
+            </div>
+
+            <!-- Displaying Appointment Information -->
+            <div class="form-group">
+                <label asp-for="ServiceId" class="control-label">Service</label>
+                <select asp-for="ServiceId" class="form-control" asp-items="ViewBag.ServiceId"></select>
+                <span asp-validation-for="ServiceId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DoctorId" class="control-label">Doctor</label>
+                <select id="DoctorId" class="form-control" asp-for="DoctorId" asp-items="ViewBag.DoctorId"></select>
+                <span asp-validation-for="DoctorId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AppointmentTime" class="control-label">Appointment Time</label>
+                <input required asp-for="AppointmentTime" class="form-control" />
+                <span asp-validation-for="AppointmentTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        @* <form method="post" asp-action="SendEmail">
+            @Html.AntiForgeryToken()
+            <input type="hidden" asp-for="AppointmentId" />
+            <div class="form-group">
+                <input type="submit" value="Send Confirmation Email" class="btn btn-secondary" />
+            </div>
+        </form> *@
+    </div>
+
+    <!-- Appointment Table -->
+    <div class="col-md-8">
+        <h4 style="color:mediumpurple">Existed Appointment</h4>
+        <div class="form-group">
+            <label for="doctorFilter">Dentist's name:</label>
+            <select id="doctorFilter" class="form-control" onchange="filterAppointments()">
+                <option value="">All Doctors</option>
+                @foreach (var doctor in (IEnumerable<DoAnTotNghiep.Models.Doctor>)ViewBag.Doctors)
+                {
+                    <option value="@doctor.DoctorId">@doctor.Name</option>
+                }
+            </select>
+        </div>
+        <table id="relatedAppointmentsTable" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Appointment ID</th>
+                    <th>Appointment Time</th>
+                    <th>Service</th>
+                    <th>Patient Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (ViewBag.RelatedAppointments != null)
+                {
+                    @foreach (var relatedAppointment in ViewBag.RelatedAppointments)
+                    {
+                        <tr data-doctor-id="@relatedAppointment.DoctorId">
+                            <td>@relatedAppointment.AppointmentId</td>
+                            <td>@relatedAppointment.AppointmentTime</td>
+                            <td>@relatedAppointment.Service.ServiceName</td>
+                            <td>@relatedAppointment.User.Name</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div>
+    <a asp-action="AppointmentManagement">Back to List</a>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        function filterAppointments() {
+            var filterValue = document.getElementById('doctorFilter').value;
+            var rows = document.querySelectorAll('#relatedAppointmentsTable tbody tr');
+            rows.forEach(row => {
+                var doctorId = row.getAttribute('data-doctor-id');
+                if (filterValue === "" || doctorId === filterValue) {
+                    row.style.display = "";
+                } else {
+                    row.style.display = "none";
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            filterAppointments(); // Ensure filtering is applied on initial load or after an error
+        });
+    </script>
+}

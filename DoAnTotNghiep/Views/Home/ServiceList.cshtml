@@ -1,0 +1,41 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "ServiceList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    h1{
+        margin-top: 150px;
+        text-align:center;
+    }
+    th {
+        text-align: center;
+        font-weight:bold;
+    }
+
+    td {
+        text-align: center;
+    }
+</style>
+<h1>Our Services</h1>
+<table class="table">
+    <thead>
+        <tr style="background-color : White">
+            <th>
+                Service Name
+            </th>
+            <th>
+                Cost
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Services)
+        {
+            <tr class="table-dark">
+                <td>@item.ServiceName</td>
+                <td>@item.Cost VND</td>
+            </tr>
+        }
+    </tbody>
+</table>

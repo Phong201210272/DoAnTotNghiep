@@ -1,0 +1,84 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "New Invoice";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    var session = HttpContextAccessor.HttpContext?.Session;
+    string? username = session?.GetString("Username");
+
+    string? user = null;
+    if (!string.IsNullOrEmpty(username))
+    {
+        using (var db = new QlphongKhamNhaKhoaContext())
+        {
+            user = db.Admins.FirstOrDefault(u => u.Username == username)?.Name;
+        }
+    }
+}
+
+<h2 style="text-align:center">Invoice for Appointment: @ViewBag.AppointmentId</h2>
+
+<div class="checkout_area mb-100">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-12 col-lg-7">
+                <div class="checkout_details_area clearfix">
+                    <form asp-action="NewInvoice" method="post">
+                        <div class="row">
+                            <div class="col-md-6 mb-4">
+                                <label for="first_name">Name *</label>
+                                <input readonly type="text" class="form-control" id="first_name" value="@ViewBag.UserName" required>
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="email_address">Email *</label>
+                                <input readonly type="email" class="form-control" id="email_address" value="@ViewBag.UserEmail">
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="phone_number">Phone number *</label>
+                                <input readonly type="number" class="form-control" id="phone_number" min="0" value="@ViewBag.UserPhone">
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="service">Service *</label>
+                                <input readonly type="text" class="form-control" id="service" value="@ViewBag.ServiceName">
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="dentist">Dentist *</label>
+                                <input readonly type="text" class="form-control" id="dentist" value="@ViewBag.DoctorName">
+                            </div>
+                            <div class="col-md-12 mb-4">
+                                <label for="order-notes">Note-Medicine</label>
+                                <textarea class="form-control" id="order-notes" name="newBillDetail.NoteMedicine" cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="cashier">Casher *</label>
+                                <input readonly type="text" class="form-control" id="cashier" value="@user">
+                            </div>
+                            <div class="col-12 mb-4">
+                                <label for="price">Giá *</label>
+                                <input readonly type="number" class="form-control" id="price" min="0" value="@ViewBag.Price">
+                            </div>
+                            <div class="form-control">
+                                <button type="submit" class="btn btn-primary" id="submitButton">Submit</button>
+                            </div>
+                        </div>
+                        <input type="hidden" name="newBill.UserId" value="@ViewBag.UserId" />
+                        <input type="hidden" name="newBill.Total" value="@ViewBag.Price" />
+                        <input type="hidden" name="newBillDetail.DoctorId" value="@ViewBag.DoctorId" />
+                        <input type="hidden" name="newBillDetail.ServiceId" value="@ViewBag.ServiceId" />
+                        <input type="hidden" name="newBill.AppointmentId" value="@ViewBag.AppointmentId" />
+                    </form>
+                    @* <div class="form-control">
+                        <form id="exportForm" action="@Url.Action("ExportToExcel", "Invoice")" method="post">
+                            <button type="submit" action class="btn btn-primary">Export to Excel</button>
+                        </form>
+                    </div> *@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

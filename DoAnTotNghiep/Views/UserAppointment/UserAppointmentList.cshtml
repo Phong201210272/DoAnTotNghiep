@@ -1,0 +1,160 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@model IPagedList<DoAnTotNghiep.Models.Appointment>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "UserAppointmentList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string selectedStatus = ViewBag.SelectedStatus as string;
+}
+<style>
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .table td {
+            padding: 8px;
+            text-align: center;
+            height: 50px;
+            border-bottom: none;
+        }
+
+        .table tr:last-child td {
+            border-bottom: 1px solid #ddd;
+        }
+
+    th {
+        text-align: center;
+    }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .page-item {
+        margin: 0 5px; /* Khoảng cách giữa các số trang */
+    }
+
+    .page-link {
+        color: #000;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 8px 16px;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+        .page-link:hover {
+            background-color: #f0f0f0;
+            border-color: #bbb;
+        }
+
+    .page-item.active .page-link {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white;
+    }
+
+    .page-item.disabled .page-link {
+        color: #6c757d;
+        pointer-events: none;
+        background-color: #fff;
+        border-color: #dee2e6;
+    }
+</style>
+<h1 style="margin-top:150px; text-align:center">Your Appointments</h1>
+<p style="text-align:center">
+    <a style="color:yellowgreen; font-size:17px" asp-controller="Home" asp-action="NewAppointment"><b>> Make new Appointment <</b></a>
+</p>
+<form method="get" asp-action="UserAppointmentList">
+    <div class="form-group" style="align-content:center">
+        <label style="text-align:center" for="statusFilter">Filter by Status:</label>
+        <select id="statusFilter" name="statusFilter" class="form-control" onchange="this.form.submit()">
+            <option value="">All</option>
+            <option value="0" selected="@(ViewBag.SelectedStatus == "0")">Pending</option>
+            <option value="1" selected="@(ViewBag.SelectedStatus == "1")">Approved</option>
+            <option value="2" selected="@(ViewBag.SelectedStatus == "2")">Completed</option>
+        </select>
+    </div>
+</form>
+<table class="table" style="margin-bottom:20px">
+    <thead>
+        <tr style="background-color : White">
+            <th style="font-weight:bold">Appointment ID</th>
+            <th style="font-weight:bold">Create Date</th>
+            <th style="font-weight:bold">Name</th>
+            <th style="font-weight:bold">Status</th>
+            <th style="font-weight:bold">Appointment Time</th>
+            <th style="font-weight:bold">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr class="table-dark">
+                <td>@appointment.AppointmentId</td>
+                <td>@appointment.CreateDate</td>
+                <td>@appointment.User.Name</td>
+                <td>
+                    @{
+                        string statusText;
+                        switch (appointment.Status)
+                        {
+                            case 0:
+                                statusText = "Pending";
+                                break;
+                            case 1:
+                                statusText = "Approved";
+                                break;
+                            case 2:
+                                statusText = "Completed";
+                                break;
+                            default:
+                                statusText = "";
+                                break;
+                        }
+                    }
+                    @statusText
+                </td>
+                <td>@appointment.AppointmentTime</td>
+                <td>
+                    @if (appointment.Status == 0)
+                    {
+                        <div style="display: flex; flex-direction: column; align-items: center;">
+                            <a asp-action="EditUserAppointment" asp-route-id="@appointment.AppointmentId" class="btn btn-gradient-primary btn-rounded btn-fw">Edit</a>
+                            <a asp-action="CancelAppointment" asp-route-id="@appointment.AppointmentId" class="btn btn-gradient-danger btn-rounded btn-fw">Cancel</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div style="display: flex; flex-direction: column; align-items: center;">
+                            <a asp-action="UserAppointmentDetail" asp-route-id="@appointment.AppointmentId" class="btn btn-gradient-success btn-rounded btn-fw">Detail</a>
+                        </div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div style="margin-bottom: 25px">
+    @Html.PagedListPager(Model, page => Url.Action("UserAppointmentList", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses = new[] { "page-item" },
+    PageClasses = new[] { "page-link" },
+    UlElementClasses = new[] { "pagination" },
+})
+</div>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var successMessage = '@TempData["SuccessMessage"]';
+            if (successMessage) {
+                alert(successMessage);
+            }
+        });
+    </script>
+}

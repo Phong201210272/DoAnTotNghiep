@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Dentist Management";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<style>
+    th {
+        text-align: center;
+    }
+
+    td {
+        text-align: center;
+    }
+</style>
+<h1 style="text-align:center">Dentist Management</h1>
+
+<p style =" text-align:center">
+    <a style="color: mediumpurple; font-size:20px;" asp-action="AddDentist">> Add New Dentist <</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr style="background-color : White">
+            <th>ID</th>
+            <th>Name</th> 
+            <th>Date of Birth</th>
+            <th>Gender</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dentist in ViewBag.Doctors)
+        {
+            <tr class="table-dark">
+                <td>@dentist.DoctorId</td>
+                <td>@dentist.Name</td>
+                <td>@dentist.Dob</td>
+                <td>@dentist.Gender</td>
+                <td>@dentist.PhoneNumber</td>
+                <td>@dentist.Email</td>
+                <td style="vertical-align: middle; text-align: center;">
+                    <div style="display: flex; flex-direction: column; align-items: center;">
+                        <a asp-action="EditDentist" asp-route-dentistid="@dentist.DoctorId" class="btn btn-gradient-primary btn-rounded btn-fw">Edit</a>
+                        <a asp-action="RemoveDentist" asp-route-dentistid="@dentist.DoctorId" class="btn btn-gradient-danger btn-rounded btn-fw">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var successMessage = '@TempData["SuccessMessage"]';
+            if (successMessage) {
+                alert(successMessage);
+            }
+        });
+    </script>
+}

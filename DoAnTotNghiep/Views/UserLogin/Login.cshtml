@@ -1,0 +1,106 @@
+﻿@{
+    Layout = null;
+}
+@model User
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>User Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="../Login/img/fav.png">
+    <!-- Author Meta -->
+    <meta name="author" content="CodePixar">
+    <!-- Meta Description -->
+    <meta name="description" content="">
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="">
+    <!-- meta character set -->
+    <meta charset="UTF-8">
+    <!-- Site Title -->
+    <title>User Login</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../Login/css/linearicons.css">
+    <link rel="stylesheet" href="../Login/css/owl.carousel.css">
+    <link rel="stylesheet" href="../Login/css/themify-icons.css">
+    <link rel="stylesheet" href="../Login/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../Login/css/nice-select.css">
+    <link rel="stylesheet" href="../Login/css/nouislider.min.css">
+    <link rel="stylesheet" href="../Login/css/bootstrap.css">
+    <link rel="stylesheet" href="../Login/css/main.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <script>
+        function togglePasswordVisibility() {
+            var passwordField = document.getElementById("password");
+            if (passwordField.type === "password") {
+                passwordField.type = "text";
+            } else {
+                passwordField.type = "password";
+            }
+        }
+    </script>
+
+</head>
+<body>
+    <section class="login_box_area section_gap">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="login_box_img">
+                        <img class="img-fluid" src="../Login/img/login.jpg" alt="">
+                        <div class="hover">
+                            <h4>New to our website?</h4>
+                            <p>There are advances being made in science and technology everyday, and a good example of this is the</p>
+                            <a class="primary-btn" asp-controller="Register" asp-action="UserRegister">Create an Account</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="login_form_inner">
+                        <h3>Hello User!</h3>
+                        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewBag.ErrorMessage
+                            </div>
+                        }
+                        @using (Html.BeginForm("Login", "UserLogin", FormMethod.Post))
+                        {
+                            <div class="col-md-12 form-group">
+                                @Html.TextBoxFor(x => x.Username, new { @class = "form-control", id = "name", name = "name", placeholder = "Username", onfocus = "this.placeholder = ''", onblur = "this.placeholder = 'Username'", required = "required" })
+                            </div>
+                            <div class="col-md-12 form-group">
+                                <div class="input-group">
+                                    @Html.TextBoxFor(x => x.Password, new { @class = "form-control", id = "password", name = "password", placeholder = "Password", onfocus = "this.placeholder = ''", onblur = "this.placeholder = 'Password'", required = "required", type = "password" })
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="button" onclick="togglePasswordVisibility()">
+                                            <i class="bi bi-eye"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 form-group">
+                                <div class="creat_account">
+                                    <input type="checkbox" id="f-option2" name="selector">
+                                    <label for="f-option2">Keep me logged in</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12 form-group">
+                                <button type="submit" value="submit" class="primary-btn">Log In</button> <br />
+                                <a asp-controller="AdminLogin" asp-action="AdminLogin">You are an Administrator?</a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- JavaScript -->
+    <script src="../Login/js/vendor/jquery-2.2.4.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="../Login/js/main.js"></script>
+</body>
+</html>
