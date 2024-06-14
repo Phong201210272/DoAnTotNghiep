@@ -107,9 +107,9 @@ namespace DoAnTotNghiep.Controllers
                 .Include(a => a.Service)
                 .ToList();
 
-            ViewBag.UserName = appointment.User?.Name;
+            /*ViewBag.PatientName = appointment.PatientName;
             ViewBag.UserPhone = appointment.User?.PhoneNumber;
-            ViewBag.UserEmail = appointment.User?.Email;
+            ViewBag.UserEmail = appointment.User?.Email;*/
             ViewBag.RelatedAppointments = relatedAppointments;
 
             ViewBag.ServiceId = new SelectList(db.Services.ToList(), "ServiceId", "ServiceName", appointment.ServiceId);

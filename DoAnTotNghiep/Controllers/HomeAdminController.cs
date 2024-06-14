@@ -403,9 +403,19 @@ namespace DoAnTotNghiep.Controllers
             }
             return View(dentist);
         }
+
+        [HttpGet]
+        [Route("patientlist")]
         public IActionResult Patient()
         {
-            return View();
+            var patientAppointments = db.Appointments
+                .Where(a => a.Status == 2)
+                .GroupBy(a => new { a.PatientName, a.PatientPhone })
+                .Select(g => new Tuple<string, string, int>(g.Key.PatientName, g.Key.PatientPhone, g.Count()))
+                .ToList();
+
+            return View(patientAppointments);
         }
+
     }
 }

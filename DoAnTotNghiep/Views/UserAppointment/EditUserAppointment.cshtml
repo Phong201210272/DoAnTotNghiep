@@ -24,16 +24,16 @@
                 <!-- Displaying User Information -->
                 <div class="form-group">
                     <label>Patient Name</label>
-                    <input type="text" class="form-control" value="@ViewBag.UserName" readonly />
+                    <input type="text" class="form-control" value="@Model.PatientName" readonly />
                 </div>
                 <div class="form-group">
                     <label>Phone Number</label>
-                    <input type="text" class="form-control" value="@ViewBag.UserPhone" readonly />
+                    <input type="text" class="form-control" value="@Model.PatientPhone" readonly />
                 </div>
-                <div class="form-group">
+                @* <div class="form-group">
                     <label>Email</label>
                     <input type="text" class="form-control" value="@ViewBag.UserEmail" readonly />
-                </div>
+                </div> *@
 
                 <!-- Displaying Appointment Information -->
                 <div class="form-group">

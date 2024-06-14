@@ -509,4 +509,32 @@
 		});
 	</script>
 }
+<script>
+	$(document).ready(function () {
+		$('.slider').slick({
+			infinite: true,
+			slidesToShow: 3, // Số lượng slide hiển thị trên mỗi lần chạy
+			slidesToScroll: 1, // Số lượng slide được di chuyển khi click next/prev
+			autoplay: true, // Tự động chạy slide
+			autoplaySpeed: 2000, // Thời gian chờ giữa các lần chuyển slide (ms)
+			responsive: [
+				{
+					breakpoint: 992,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 1,
+					}
+				},
+				{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}
+			]
+		});
+	});
+</script>
+
 <!-- End blog Area -->

@@ -118,9 +118,9 @@ namespace DoAnTotNghiep.Controllers
                                  .Where(a => a.AppointmentId == id && a.Status != 2)
                                  .Select(a => new
                                  {
-                                     UserName = a.User.Name,
-                                     UserEmail = a.User.Email,
-                                     UserPhone = a.User.PhoneNumber,
+                                     PatientName = a.PatientName,
+                                    /* UserEmail = a.User.Email,*/
+                                     PatientPhone = a.PatientPhone,
                                      ServiceName = a.Service.ServiceName,
                                      DoctorName = a.Doctor.Name,
                                      Price = a.Service.Cost,
@@ -136,10 +136,10 @@ namespace DoAnTotNghiep.Controllers
                 TempData["ErrorMessage"] = "Appointment không tồn tại hoặc đã hoàn thành.";
                 return RedirectToAction("AppointmentManagement", "Appointment");
             }
-
-            ViewBag.UserName = appointment.UserName;
-            ViewBag.UserEmail = appointment.UserEmail;
-            ViewBag.UserPhone = appointment.UserPhone;
+            
+            ViewBag.PatientName = appointment.PatientName;
+            /*ViewBag.UserEmail = appointment.UserEmail;*/
+            ViewBag.PatientPhone = appointment.PatientPhone;
             ViewBag.ServiceName = appointment.ServiceName;
             ViewBag.DoctorName = appointment.DoctorName;
             ViewBag.Price = appointment.Price;
@@ -175,7 +175,8 @@ namespace DoAnTotNghiep.Controllers
 
             // Assign the BillId to BillDetail
             newBillDetail.BillId = billId;
-
+            /*newBillDetail.PatientName = ViewBag.PatientName;
+            newBillDetail.PatientPhone = ViewBag.PatientPhone;*/
             var appointment = db.Appointments.FirstOrDefault(a => a.AppointmentId == newBill.AppointmentId);
             if (appointment == null || appointment.Status == 2)
             {
@@ -244,7 +245,18 @@ namespace DoAnTotNghiep.Controllers
 
         private BillDetail GetBillDetail(string billId)
         {
-            return db.BillDetails.FirstOrDefault(d => d.BillId == billId);
+            var billDetail = db.BillDetails.FirstOrDefault(d => d.BillId == billId);
+
+            if (billDetail != null)
+            {
+                // Xử lý các thuộc tính của billDetail ở đây
+                return billDetail;
+            }
+            else
+            {
+                // Xử lý khi không tìm thấy BillDetail với billId cụ thể
+                return null;
+            }
         }
         private string GetDoctorName(QlphongKhamNhaKhoaContext db, string doctorId)
         {

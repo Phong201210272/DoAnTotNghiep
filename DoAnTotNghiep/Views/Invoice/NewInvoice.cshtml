@@ -30,15 +30,15 @@
                         <div class="row">
                             <div class="col-md-6 mb-4">
                                 <label for="first_name">Name *</label>
-                                <input readonly type="text" class="form-control" id="first_name" value="@ViewBag.UserName" required>
+                                <input name="newBillDetail.PatientName" readonly type="text" class="form-control" id="first_name" value="@ViewBag.PatientName" required>
                             </div>
-                            <div class="col-12 mb-4">
+                            @* <div class="col-12 mb-4">
                                 <label for="email_address">Email *</label>
                                 <input readonly type="email" class="form-control" id="email_address" value="@ViewBag.UserEmail">
-                            </div>
+                            </div> *@
                             <div class="col-12 mb-4">
                                 <label for="phone_number">Phone number *</label>
-                                <input readonly type="number" class="form-control" id="phone_number" min="0" value="@ViewBag.UserPhone">
+                                <input name="newBillDetail.PatientPhone" readonly type="number" class="form-control" id="phone_number" min="0" value="@ViewBag.PatientPhone">
                             </div>
                             <div class="col-12 mb-4">
                                 <label for="service">Service *</label>

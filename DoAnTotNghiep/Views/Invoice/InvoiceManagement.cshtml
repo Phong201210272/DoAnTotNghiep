@@ -15,7 +15,7 @@
             <th>Create Date</th>
             <th>Total (VND)</th>
             <th>Admin Name</th>
-            <th>User Name</th>
+            <th>Patient Name</th>
             <th>Service Name</th>
             <th>Doctor Name</th>
             <th></th>
@@ -35,7 +35,7 @@
                 <td>@item.CreateDate.ToString("dd/MM/yyyy")</td>
                 <td>@item.Total</td>
                 <td>@admin?.Name</td>
-                <td>@user?.Name</td>
+                <td>@detail?.PatientName</td>
                 <td>@service?.ServiceName</td>
                 <td>@doctor?.Name</td>
                 <td>

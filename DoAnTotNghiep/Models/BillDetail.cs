@@ -8,6 +8,8 @@ public partial class BillDetail
     public string? NoteMedicine { get; set; }
 
     public string BillId { get; set; } = null!;
+    public string PatientName { get; set; } = null!;
+    public string PatientPhone { get; set; } = null!;
     public string DoctorId {  get; set; } = null!;
 
     public string ServiceId { get; set; } = null!;

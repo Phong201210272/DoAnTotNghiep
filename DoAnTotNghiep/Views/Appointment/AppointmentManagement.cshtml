@@ -103,7 +103,7 @@
             <th>Create Date</th>
             <th>Name</th>
             <th>Phone Number</th>
-            <th>Email</th>
+            @* <th>Email</th> *@
             <th>Status</th>
             <th>Appointment Time</th>
             <th>Action</th>
@@ -116,9 +116,9 @@
             <tr class="table-dark">
                 <td>@appointment.AppointmentId</td>
                 <td>@appointment.CreateDate.ToString("dd/MM/yyyy")</td>
-                <td>@userInfo?.Name</td>
-                <td>@userInfo?.PhoneNumber</td>
-                <td>@userInfo?.Email</td>
+                <td>@appointment.PatientName</td>
+                <td>@appointment.PatientPhone</td>
+                @* <td>@userInfo?.Email</td> *@
                 <td>
                     @{
                         string statusText;

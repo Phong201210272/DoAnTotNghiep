@@ -12,6 +12,8 @@ public partial class Appointment
     public DateTime? AppointmentTime { get; set; }
 
     public int Status { get; set; }
+    public string PatientPhone { get; set; } = null!;
+    public string PatientName { get; set; } = null!;
 
     public string UserId { get; set; } = null!;
 

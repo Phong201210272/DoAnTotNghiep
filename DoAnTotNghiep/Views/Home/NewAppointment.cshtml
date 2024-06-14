@@ -69,13 +69,14 @@
 				<form method="post" asp-action="NewAppointment">
 					<div class="row">
 						<div class="col-lg-12 d-flex flex-column">
-							<span name="patient-name" style="width:580px" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Patient Name'" class="form-control mt-20" required="" readonly>@user</span>
+							<label asp-for="PatientName" class="control-label"></label>
+							<input asp-for="PatientName" class="form-control" value="@user"/>
+							<span asp-validation-for="PatientName" class="text-danger"></span>
 						</div>
 						<div class="col-lg-6 d-flex flex-column">
-							<span name="patient-phone" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phonenumber'" class="form-control mt-20" required="" readonly >@phone</span>
-						</div>
-						<div class="col-lg-6 d-flex flex-column">
-							<span style="width:300px"  name="patient-name" placeholder="Patient Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" class="form-control mt-20" required="" readonly>@email</span>
+							<label asp-for="PatientPhone" class="control-label"></label>
+							<input asp-for="PatientPhone" class="form-control" value="@phone"/>
+							<span asp-validation-for="PatientPhone" class="text-danger"></span>
 						</div>
 						<div class="col-lg-6 d-flex flex-column">
 							<label asp-for="ServiceId"></label>
