@@ -8,7 +8,7 @@
     tr {
         text-align: center;
     }
-
+    /* Custom CSS for Schedule */
     .table {
         width: 100%;
         margin: auto;
@@ -50,7 +50,6 @@
         <input type="date" id="endDate" name="endDate" class="form-control" value="@ViewBag.EndDate" />
     </div>
     <button type="submit" class="btn btn-primary">Filter</button>
-    <button type="button" class="btn btn-secondary" onclick="clearFilter()">Clear Filter</button>
 
     @if (Model != null && Model.Count > 0)
     {
@@ -116,10 +115,3 @@ else
         return "Evening";
     }
 }
-<script>
-    function clearFilter() {
-        document.getElementById('startDate').value = '';
-        document.getElementById('endDate').value = '';
-        document.getElementById('doctorForm').submit();
-    }
-</script>

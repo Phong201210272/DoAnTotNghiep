@@ -8,45 +8,38 @@
         position: relative;
         height: 400px;
     }
-    .chart-container-small {
-        position: relative;
-        height: 300px;
-    }
 </style>
 
 <div class="row">
-    <div class="col-md-7 grid-margin stretch-card">
+    <div class="col-md-6">
         <div class="card">
             <div class="card-body">
                 <div class="clearfix">
-                    <h4 class="card-title float-left">Visit And Sales Statistics</h4>
-                    <div id="visit-sale-chart-legend" class="rounded-legend legend-horizontal legend-top-right float-right">
-                        <ul>
-                            <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(218, 140, 255, 1), rgba(154, 85, 255, 1))"></span>CHN</li>
-                            <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(255, 191, 150, 1), rgba(254, 112, 150, 1))"></span>USA</li>
-                            <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(54, 215, 232, 1), rgba(177, 148, 250, 1))"></span>UK</li>
-                        </ul>
-                    </div>
+                    <h4 class="card-title float-left">Top 3 Services Usage Statistics</h4>
+                    <form method="get" asp-action="AdminIndex" class="float-right">
+                        <select name="year" onchange="this.form.submit()">
+                            @foreach (var year in ViewBag.Years)
+                            {
+                                <option value="@year" selected="@(year == ViewBag.SelectedYear)">@year</option>
+                            }
+                        </select>
+                    </form>
                 </div>
                 <div class="chart-container">
-                    <canvas id="visit-sale-chart"></canvas>
+                    <canvas id="service-usage-chart"></canvas>
                 </div>
             </div>
         </div>
     </div>
-    <div class="col-md-5 grid-margin stretch-card">
+
+    <div class="col-md-6">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Traffic Sources</h4>
-                <div class="chart-container-small">
-                    <canvas id="traffic-chart"></canvas>
+                <div class="clearfix">
+                    <h4 class="card-title float-left">Doctor Appointment Distribution</h4>
                 </div>
-                <div id="traffic-chart-legend" class="rounded-legend legend-vertical legend-bottom-left pt-4">
-                    <ul>
-                        <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(54, 215, 232, 1), rgba(177, 148, 250, 1))"></span>Search Engines<span class="float-right">30%</span></li>
-                        <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(6, 185, 157, 1), rgba(132, 217, 210, 1))"></span>Direct Click<span class="float-right">30%</span></li>
-                        <li><span class="legend-dots" style="background:linear-gradient(to right, rgba(255, 191, 150, 1), rgba(254, 112, 150, 1))"></span>Bookmarks Click<span class="float-right">40%</span></li>
-                    </ul>
+                <div class="chart-container">
+                    <canvas id="doctor-appointment-pie-chart"></canvas>
                 </div>
             </div>
         </div>
@@ -54,33 +47,17 @@
 </div>
 
 @section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script>
-        // Visit and Sales Statistics Chart
-        var visitSaleChartCtx = document.getElementById('visit-sale-chart').getContext('2d');
-        var visitSaleChart = new Chart(visitSaleChartCtx, {
+        // Get data from ViewBag
+        var chartData = @Html.Raw(ViewBag.ChartData);
+        var pieChartData = @Html.Raw(ViewBag.PieChartData);
+
+        // Service Usage Chart
+        var serviceUsageChartCtx = document.getElementById('service-usage-chart').getContext('2d');
+        var serviceUsageChart = new Chart(serviceUsageChartCtx, {
             type: 'line',
-            data: {
-                labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
-                datasets: [{
-                    label: 'CHN',
-                    data: [3, 2, 2, 1, 5, 4],
-                    backgroundColor: 'rgba(218, 140, 255, 0.5)',
-                    borderColor: 'rgba(154, 85, 255, 1)',
-                    fill: true,
-                }, {
-                    label: 'USA',
-                    data: [4, 3, 3, 2, 6, 5],
-                    backgroundColor: 'rgba(255, 191, 150, 0.5)',
-                    borderColor: 'rgba(254, 112, 150, 1)',
-                    fill: true,
-                }, {
-                    label: 'UK',
-                    data: [2, 4, 4, 3, 7, 6],
-                    backgroundColor: 'rgba(54, 215, 232, 0.5)',
-                    borderColor: 'rgba(177, 148, 250, 1)',
-                    fill: true,
-                }]
-            },
+            data: chartData,
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
@@ -96,34 +73,22 @@
                         display: true,
                         title: {
                             display: true,
-                            text: 'Values'
+                            text: 'Number of Appointments'
+                        },
+                        ticks: {
+                            beginAtZero: true,
+                            precision: 0
                         }
                     }
                 }
             }
         });
 
-        // Traffic Sources Chart
-        var trafficChartCtx = document.getElementById('traffic-chart').getContext('2d');
-        var trafficChart = new Chart(trafficChartCtx, {
-            type: 'doughnut',
-            data: {
-                labels: ["Search Engines", "Direct Click", "Bookmarks Click"],
-                datasets: [{
-                    data: [30, 30, 40],
-                    backgroundColor: [
-                        'rgba(54, 215, 232, 0.5)',
-                        'rgba(6, 185, 157, 0.5)',
-                        'rgba(255, 191, 150, 0.5)'
-                    ],
-                    borderColor: [
-                        'rgba(177, 148, 250, 1)',
-                        'rgba(132, 217, 210, 1)',
-                        'rgba(254, 112, 150, 1)'
-                    ],
-                    borderWidth: 1
-                }]
-            },
+        // Doctor Appointment Pie Chart
+        var doctorAppointmentPieChartCtx = document.getElementById('doctor-appointment-pie-chart').getContext('2d');
+        var doctorAppointmentPieChart = new Chart(doctorAppointmentPieChartCtx, {
+            type: 'pie',
+            data: pieChartData,
             options: {
                 responsive: true,
                 maintainAspectRatio: false
