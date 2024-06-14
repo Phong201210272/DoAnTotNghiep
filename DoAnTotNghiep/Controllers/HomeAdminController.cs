@@ -3,8 +3,10 @@ using Microsoft.CodeAnalysis.Elfie.Extensions;
 using DoAnTotNghiep.Models;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using DoAnTotNghiep.Models.Authentication;
+using System.Globalization;
 using Microsoft.Identity.Client;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 namespace DoAnTotNghiep.Controllers
 {
     [Route("admin")]
@@ -95,11 +97,79 @@ namespace DoAnTotNghiep.Controllers
             return db.Users.FirstOrDefault(u => u.UserId == userId);
         }
         [Route("adminindex")]
-        public IActionResult AdminIndex()
+        public IActionResult AdminIndex(int? year)
         {
+            year ??= DateTime.Now.Year; // Default to current year if no year is selected
+
+            // Query for top 3 services usage statistics
+            var services = db.Appointments
+                .Where(a => a.Status == 2 && a.AppointmentTime.Value.Year == year)
+                .GroupBy(a => a.Service.ServiceName)
+                .Select(g => new { ServiceName = g.Key, Count = g.Count() })
+                .OrderByDescending(g => g.Count)
+                .Take(3)
+                .ToList();
+
+            var serviceNames = services.Select(s => s.ServiceName).ToList();
+
+            // Query for appointment counts by service and month
+            var appointmentData = db.Appointments
+                .Where(a => a.Status == 2 && serviceNames.Contains(a.Service.ServiceName) && a.AppointmentTime.Value.Year == year)
+                .GroupBy(a => new { a.Service.ServiceName, a.AppointmentTime.Value.Month })
+                .Select(g => new { g.Key.ServiceName, g.Key.Month, Count = g.Count() })
+                .ToList();
+
+            // Query for doctor appointment distribution
+            var doctorAppointmentCounts = db.Appointments
+                .Where(a => a.Status == 2 && a.AppointmentTime.Value.Year == year)
+                .GroupBy(a => a.Doctor.Name)
+                .Select(g => new { DoctorName = g.Key, Count = g.Count() })
+                .ToList();
+
+            // Prepare data for pie chart
+            var pieChartData = new
+            {
+                labels = doctorAppointmentCounts.Select(d => d.DoctorName).ToArray(),
+                datasets = new[]
+                {
+            new
+            {
+                data = doctorAppointmentCounts.Select(d => d.Count).ToArray(),
+                backgroundColor = doctorAppointmentCounts.Select(d => GetRandomColor()).ToArray()
+            }
+        }
+            };
+
+            // Prepare data for line chart
+            var chartData = new
+            {
+                labels = Enumerable.Range(1, 12).Select(m => CultureInfo.CurrentCulture.DateTimeFormat.GetAbbreviatedMonthName(m)).ToArray(),
+                datasets = serviceNames.Select(serviceName => new
+                {
+                    label = serviceName,
+                    data = Enumerable.Range(1, 12).Select(month => appointmentData.FirstOrDefault(a => a.ServiceName == serviceName && a.Month == month)?.Count ?? 0).ToArray(),
+                    backgroundColor = GetRandomColor(),
+                    borderColor = GetRandomColor(),
+                    fill = true
+                }).ToArray()
+            };
+
+            ViewBag.ChartData = JsonConvert.SerializeObject(chartData); // Line chart data
+            ViewBag.PieChartData = JsonConvert.SerializeObject(pieChartData); // Pie chart data
+            ViewBag.SelectedYear = year; // Selected year for both charts
+            ViewBag.Years = Enumerable.Range(2000, DateTime.Now.Year - 2000 + 1).Reverse().ToList(); // List of years for filter
+
             return View();
         }
-       
+
+
+        private string GetRandomColor()
+        {
+            Random rand = new Random();
+            return $"rgba({rand.Next(256)}, {rand.Next(256)}, {rand.Next(256)}, 0.5)";
+        }
+
+
         [Route("dentistlist")]
         public IActionResult DentistManagement()
         {
